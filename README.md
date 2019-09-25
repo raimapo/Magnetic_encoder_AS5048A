@@ -1,4 +1,4 @@
-# Magnetic_encoder_AS5048A for the NUCLEO-F446ZE and C++
+# Magnetic encoder AS5048A for the NUCLEO-F446ZE and C++
 
 Magnetic Encoder AMS AS5048A with SPI data transmiting protocol C++ library. Implmented using STM CubeMX and HAL libraries.
 As example was tooked similar arduino library.
